@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/buildtest.dir/src/main.cpp.o  -o buildtest 
